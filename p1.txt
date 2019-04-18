@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Git project!
+=======
+Git project
+Edited by neha
+third line added by neha
+
+>>>>>>> fd7505243f3acfd32b455014da00d76e412a64ee
